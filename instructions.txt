@@ -1,0 +1,33 @@
+Follow the instructions to run the bot. 
+
+install python from   https://www.python.org/downloads/
+
+unzip the file Option_omega_automation
+go to the folder
+
+	for windows 
+go to address bar and write cmd
+write python --version
+it should show python version installed.
+ 
+write pip install selenium pandas openpyxl
+this will install all required libraries for this project.
+
+write python trade_testing.py 
+Above command will run the bot.
+
+Requirements to run. 
+there is input file as sample included in the zip. look into that file format of input should be same. 
+input file is necessory to run the bot. 
+do not include any other column or don't change type of column, means that if column is for time put the time not any other type, 
+if column is for Yes or No dont put any number in there. puting different type can raise error while running the bot. 
+Website is very much dynamic and it can raise error on wrong results.
+add rows only in input file to run the test on different config.  
+
+output file is also to show you how you will get the results. 
+sample file is same you gave us for testing. 
+
+thanks enjoy the bot. 
+
+contact developer if any query. 
+Whatsapp: +923312378492
