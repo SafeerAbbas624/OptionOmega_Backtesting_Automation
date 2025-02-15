@@ -40,7 +40,7 @@ pip install selenium pandas openpyxl
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/optionomega-backtester.git
+git clone https://github.com/SafeerAbbas624/OptionOmega_Backtesting_Automation.git
 cd optionomega-backtester
 ```
 
